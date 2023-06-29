@@ -2,7 +2,7 @@
 
 ### Sou estudante de Análise e Desenvolvimento de Sistemas, sou fascinado por tecnologia e venho me especializando na área do Desenvolvimento Mobile para Android com as linguagens Kotlin e Java.
 
-### 🌱 Atualmente estou aprendendo tecnologias de desenvolvimento Android mas tenho interesse em aprender o Flutter posteriormente.
+### 🌱 Atualmente estou aprendendo tecnologias do Flutter e construindo aplicativos mobile.
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoCarvalhoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
