@@ -1,11 +1,10 @@
 
-### 
-<h1 align="center">Olá, me chamo Eduardo Carvalho😉</h1> <br>
+<h1 align="center"> Olá, me chamo Eduardo Carvalho😉</h1> <br>
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <br>
-<h3 align="center">Um desenvolvedor fascinado por tecnologia</h3>
+<h2 align="center"> Sou fascinado por tecnologia e por seu impacto na vida das pessoas através da programação </h2>
 <br>
 
 - 🖥️ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas.**
@@ -22,7 +21,6 @@
   <img height="200em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarvalhoo&layout=compact&langs_count-2&theme=dark"/>
 </div>
 <br>
-<br>
   
 ### 💻 Tecnologias:<br>
 
@@ -36,7 +34,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/">
 </div>
 
-
 ### 📲 Minhas Redes Sociais
 
 <div>
@@ -47,8 +44,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-### Fascinado por tecnologia e por seu impacto na vida das pessoas através da programação.
 
 ![Snake animation](https://github.com/EduardoCarvalhoo/EduardoCarvalhoo/blob/output/github-contribution-grid-snake.svg)
 
