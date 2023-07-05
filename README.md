@@ -1,10 +1,12 @@
 
 ### 
-<h1 align="center">Olá, me chamo Eduardo Carvalho😉</h1>
+<h1 align="center">Olá, me chamo Eduardo Carvalho😉</h1> <br>
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+<br>
 <h3 align="center">Um desenvolvedor fascinado por tecnologia</h3>
+<br>
 
 <p>
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
@@ -13,7 +15,7 @@
 - 🖥️ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**
 - ⚡ Estou me especializando em **Desenvolvimento Mobile para Android**
 - 👨‍💻 Tenho conhecimentos intermediários em linguagens **Kotlin e Java**
-- 🌱 No momento estou aprendendo tecnologias do **Flutter com a linguagem Dart**
+- 🌱 No momento estou aprendendo **Flutter com a linguagem Dart**
 - 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
 - 📄 Meus projetos por nível de complexidade respectivamente: **training_app**, **enterprise_app**, **e-commerce_app**, **movies_app**
 
