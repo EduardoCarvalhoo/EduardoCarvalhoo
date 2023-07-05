@@ -9,7 +9,7 @@
 <br>
 
 <p>
-  <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 </p>
 
 - 🖥️ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**
@@ -23,8 +23,8 @@
   <br>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoCarvalhoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarvalhoo&layout=compact&langs_count-2&theme=dark"/>
+  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api?username=EduardoCarvalhoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarvalhoo&layout=compact&langs_count-2&theme=dark"/>
 </div>
 <br>
 <br>
