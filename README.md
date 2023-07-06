@@ -12,7 +12,7 @@
 - 👨‍💻 Tenho conhecimentos intermediários em linguagens **Kotlin e Java.**
 - 🌱 No momento estou aprendendo **Flutter com a linguagem Dart.**
 - 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
-- 📄 Meus projetos por nível de complexidade respectivamente: **training_app**, **enterprise_app**, **e-commerce_app**, **movies_app**.
+- 📄 Meus projetos por nível de complexidade respectivamente: **training_app**, **e-commerce_app**, **movies_app**.
   <br>
   <br>
 
