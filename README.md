@@ -8,7 +8,6 @@
 <br>
 
 - 🖥️ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas.**
-- ⚡ Estou me especializando como um **Analista de Qualidade (Q.A)**
 - 👨‍💻 Tenho conhecimentos intermediários em linguagens **Kotlin e Java.**
 - 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
 - 📄 Meus projetos por nível de complexidade respectivamente: **training_app**, **e-commerce_app**, **movies_app**.
