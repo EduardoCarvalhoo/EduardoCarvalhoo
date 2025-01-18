@@ -7,8 +7,7 @@
 <h2 align="center"> Sou fascinado por tecnologia e por seu impacto na vida das pessoas através da programação </h2>
 <br>
 
-- 🖥️ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas.**
-- 👨‍💻 Tenho conhecimentos intermediários em linguagens **Kotlin e Java.**
+- 🖥️ Atualmente estou trabalhando como **Analista de Qualidade.**
 - 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
 - 📄 Meus projetos por nível de complexidade respectivamente: **training_app**, **e-commerce_app**, **movies_app**.
   <br>
