@@ -9,7 +9,6 @@
 
 - 🖥️ Atualmente estou trabalhando como **Analista de Qualidade.**
 - 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
-- 📄 Meus projetos por nível de complexidade respectivamente: **training_app**, **e-commerce_app**, **movies_app**.
   <br>
   <br>
 
