@@ -8,9 +8,10 @@
 <br>
 
 - 🖥️ Atualmente estou trabalhando como **Analista de Qualidade.**
+- 👨‍💻 Estou desenvolvendo um aplicativo bancário que simula as funcionalidades essenciais de uma conta digital no android com kotlin [QABank](https://github.com/EduardoCarvalhoo/QABank)
 - 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
-  <br>
-  <br>
+<br>
+<br>
 
 <div align="center">
   <img height="200em" width="300" src="https://github-readme-stats.vercel.app/api?username=EduardoCarvalhoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
