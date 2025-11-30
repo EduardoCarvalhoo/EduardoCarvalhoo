@@ -1,5 +1,5 @@
 
-<h1 align="center"> Olá, me chamo Eduardo Carvalho😉</h1> <br>
+<h1 align="center"> Olá, Eu sou Eduardo Carvalho👋</h1> <br>
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
@@ -7,16 +7,20 @@
 <h2 align="center"> Sou fascinado por tecnologia e por seu impacto na vida das pessoas através da programação </h2>
 <br>
 
-- 🖥️ Atualmente estou trabalhando como **Analista de Qualidade.**
-- 👨‍💻 Estou desenvolvendo um aplicativo bancário que simula as funcionalidades essenciais de uma conta digital no android com kotlin [QABank](https://github.com/EduardoCarvalhoo/QABank)
-- 📫 Como me encontrar **eduardo-carvalho11@hotmail.com**
-<br>
-<br>
+Sou Analista de Qualidade com experiência em automação e testes manuais em um infratech. Atuo garantindo qualidade em soluções como Pix, Internet Banking, aplicativos mobile, plataformas internas e produtos de Banking as a Service (BaaS).
 
-<div align="center">
-  <img height="200em" width="300" src="https://github-readme-stats.vercel.app/api?username=EduardoCarvalhoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarvalhoo&layout=compact&langs_count-2&theme=dark"/>
-</div>
+Tenho experiência com:
+- 🔍 Testes automatizados em APIs utilizando **Cucumber BDD**, **Cypress** e **Playwright** para testes de front end
+- 🧪 Testes manuais com **Postman** e **Insomnia**
+- 🗄️ Validações em bancos de dados **SQL Server**, **MongoDB**, **Postgress**, **Redis**
+- 🚀 Testes de performance com **K6**
+- 🔧 Versionamento e fluxo de trabalho com **Git** e **GitHub**
+- ⚙️ Automação de pipelines utilizando **GitHub Actions**
+
+
+Trabalho com foco em qualidade, comunicação e entrega contínua, buscando sempre a evolução de processos e a construção de soluções seguras, escaláveis e de alto desempenho.
+
+📫 Como me encontrar: **eduardo-carvalho11@hotmail.com**
 <br>
   
 ### 💻 Tecnologias:<br>
@@ -41,6 +45,3 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-![Snake animation](https://github.com/EduardoCarvalhoo/EduardoCarvalhoo/blob/output/github-contribution-grid-snake.svg)
-
